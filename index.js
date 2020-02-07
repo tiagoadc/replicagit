@@ -7,3 +7,4 @@ app.get('/', (req, rest) => {
 app.listen(4001, ()=> {
     console.log('API inicialida na porta 4001');
 })
+// mexi aqui ó
